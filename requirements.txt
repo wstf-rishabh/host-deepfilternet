@@ -1,0 +1,11 @@
+deepfilternet 
+pydub 
+torch 
+torchvision 
+numpy
+fastapi
+uvicorn
+soundfile
+torchaudio
+python-multipart
+cloudinary

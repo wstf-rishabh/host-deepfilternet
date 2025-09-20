@@ -1,7 +1,8 @@
 import requests
 
 # Zrok-exposed FastAPI endpoint
-ZROK_URL = "https://if0fe39kudz4.share.zrok.io/denoise/"
+# ZROK_URL = "https://0df7bsx7b0qz.share.zrok.io/denoise/"
+ZROK_URL = "https://zro7nmijqt96.share.zrok.io/denoise/"  
 
 # Path to the test audio file (must exist locally)
 INPUT_AUDIO_PATH = "data/audio1.wav"  # <-- change to your test file
